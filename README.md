@@ -1,4 +1,4 @@
-# Sistema de Automação para Gestão de Estoque
+# SAGE = Sistema de Automação para Gestão de Estoque
 
 ## Visão Geral
 
