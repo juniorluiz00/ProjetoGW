@@ -20,8 +20,8 @@ Desenvolvi um sistema de automação em Python para otimizar a gestão de estoqu
 
 
 
-Contribuição
+## Contribuição
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias.
 
-Agradecimentos
+## Agradecimentos
 Agradeço a todos que colaboraram e aos mentores, incluindo Marcelo Petelin, pela orientação valiosa.
