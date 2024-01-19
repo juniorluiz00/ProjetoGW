@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Desenvolvi um sistema de automação em Python para otimizar a gestão de estoque, proporcionando eficiência operacional e insights estratégicos.
+Sistema de automação em Python para otimizar a gestão de estoque, proporcionando eficiência operacional e insights estratégicos
 
 ## Funcionalidades Principais
 
