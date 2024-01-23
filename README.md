@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Sistema de automação em Python para otimizar a gestão de estoque, proporcionando eficiência operacional e insights estratégicos
+Sistema de automação desenvolvido em Python para otimizar a gestão de estoque, proporcionando eficiência operacional e insights estratégicos.
 
 ## Funcionalidades Principais
 
@@ -17,11 +17,8 @@ Sistema de automação em Python para otimizar a gestão de estoque, proporciona
 - PyODBC
 - Smtplib
 
-
-
-
 ## Contribuição
-Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias.
+Contribuições são bem-vindas! Sinta-se à vontade para participar, reportar problemas ou sugerir melhorias.
 
 ## Agradecimentos
-Agradeço a todos que colaboraram e aos mentores, incluindo Marcelo Petelin, pela orientação valiosa.
+Agradeço a todos que colaboraram e aos mentores pela orientação valiosa.
